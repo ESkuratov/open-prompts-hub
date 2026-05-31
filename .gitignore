@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+*.iml
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.user
+.project
+.classpath
+.settings/
+.CLAUDE.md
+
+# Claude
+.claude/
