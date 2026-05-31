@@ -19,7 +19,8 @@ Desktop.ini
 .project
 .classpath
 .settings/
-.CLAUDE.md
+CLAUDE.md
+xml-style.xml
 
 # Claude
 .claude/
